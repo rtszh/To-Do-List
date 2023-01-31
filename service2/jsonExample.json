@@ -1,0 +1,23 @@
+{
+  "update_id": 859286444,
+  "message": {
+    "message_id": 130,
+    "from": {
+      "id": 438577289,
+      "first_name": "Артур",
+      "is_bot": false,
+      "last_name": "Сажнев",
+      "username": "rtszh17",
+      "language_code": "en"
+    },
+    "date": 1674151371,
+    "chat": {
+      "id": 438577289,
+      "type": "private",
+      "first_name": "Артур",
+      "last_name": "Сажнев",
+      "username": "rtszh17"
+    },
+    "text": "my title 3 \\\\ my description 3"
+  }
+}
